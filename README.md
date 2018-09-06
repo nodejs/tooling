@@ -36,6 +36,6 @@ It may be easiest to provide this *non-exhaustive* list of examples:
 
 ## Link Dump
 
-[Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
-[Initial request for this repo]: https://github.com/nodejs/admin/issues/220
-[Previous discussion points]: https://github.com/nodejs/user-feedback/issues/59
+- [Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)
+- [Initial request for this repo](https://github.com/nodejs/admin/issues/220)
+- [Previous discussion points](https://github.com/nodejs/user-feedback/issues/59)
