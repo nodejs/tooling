@@ -9,7 +9,7 @@
 
 ## What nodejs/tooling Is Not
 
-- **nodejs/tooling** has nothing to do with internal tools or automation for the Node.js project. Maybe you were looking for [nodejs/build-infra](https://github.com/nodejs/build-infra) or [nodejs/automation](https://github.com/nodejs/automation)?
+- **nodejs/tooling** has nothing to do with internal tools or automation for the Node.js project. Maybe you were looking for [nodejs/build](https://github.com/nodejs/build) or [nodejs/automation](https://github.com/nodejs/automation)?
 - **nodejs/tooling** is not an official "working group"; it presently has no charter.
 - There are *no actual tools* in **nodejs/tooling**.
 
