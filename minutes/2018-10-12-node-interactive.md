@@ -180,6 +180,8 @@ we seem to have reached relative consensus that:
 * *Bryan*:
   * let's survey the community (@bengl, @boneskull, @bcoe).
     * this can/should dovetail with community outreach/roadmap work.
+  * should we become an officially [chartered group](https://github.com/nodejs/TSC/blob/master/BasePolicies/Charter.md)? (@bengl, @boneskull, @bcoe)
+    * what are the advantages, disadvantages?
 
 * *Daniel*:
   * let's start pulling together some documentation describing what tooling
