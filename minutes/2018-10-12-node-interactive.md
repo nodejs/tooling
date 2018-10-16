@@ -145,7 +145,7 @@ we seem to have reached relative consensus that:
     no longer a thing you needed to do.
 
 * *Guy*:
-  * interesting to note that Deno does forward slashes by default.
+  * interesting to note that Deno has a [proposal to use forward-slashes on Windows](https://github.com/denoland/deno/issues/957)
   
 * *Daniel*:
   * whatever we build, let's avoid having runtime flags for it, e.g., forward
