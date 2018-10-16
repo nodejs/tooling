@@ -26,7 +26,7 @@ Schedule next meting [here](https://github.com/nodejs/tooling/issues/1).
 * maintains create-react-app.
 * interested in getting involved in tooling working group.
 
-### Guy Bedford (@guybedord)
+### Guy Bedford (@guybedford)
 
 * contributes to modules working group.
 * maintains rollup, systemjs.
