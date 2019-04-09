@@ -2,7 +2,7 @@
 
 ## Links
 
-- **Recording**:
+- **Recording**: [https://www.youtube.com/watch?v=uQYvN9OKOrI](https://www.youtube.com/watch?v=uQYvN9OKOrI)
 
 - **GitHub Issue**: [https://github.com/nodejs/tooling/issues/26](https://github.com/nodejs/tooling/issues/26)
 
