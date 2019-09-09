@@ -35,16 +35,21 @@ New meeting time: every other Friday at 10a pacific
 
 #### Glob
 
-Corey:  globbing (e.g. [glob](https://npm.im/glob)) vs [minimatch](https://npm.im/minimatch)
-        *Both* should be in core
-        Must use the same matching
-        Globbing would be useless for nyc w/o minimatch implemntation available
-Chris:  something like `path.match()` for minimatch
-        Minimatch and [micromatch](https://npm.im/micromatch)? Analyze the intersection.
-        Let's start with `path.match()`
-Corey:  What differences can be eliminated thru options?
-        Would be good to coordinate w/ those maintainers to see if they are interested in aligning with nodejs or polyfilling
-        Also: ability to replicate functionality of gitignore
+Corey:
+- globbing (e.g. [glob](https://npm.im/glob)) vs [minimatch](https://npm.im/minimatch)
+- *Both* should be in core
+- Must use the same matching
+- Globbing would be useless for nyc w/o minimatch implemntation available
+
+Chris:
+- something like `path.match()` for minimatch
+- Minimatch and [micromatch](https://npm.im/micromatch)? Analyze the intersection.
+- Let's start with `path.match()`
+
+Corey:
+- What differences can be eliminated thru options?
+- Would be good to coordinate w/ those maintainers to see if they are interested in aligning with nodejs or polyfilling
+- Also: ability to replicate functionality of gitignore
 
 #### Source maps
 
@@ -52,12 +57,14 @@ Ben talked about sourcemap support: https://github.com/nodejs/node/pull/28960/fi
 
 #### Arg Parsing
 
-We still want to do this, but need time.  @boneskull won't have any time until late October.
+We still want to do this, but need time.
 
-Action item: @boneskull, @iansu - look into micromatch, minimatch, bash and gitignore and compare
-Action item: @nodejs/tooling Review source maps PR https://github.com/nodejs/node/pull/28960
-Action item: @boneskull remove shutil from tooling-agenda
-Action item: @nodejs/tooling reach out to let people know about new meeting times
+@boneskull won't have any time until late October.
+
+- Action item: @boneskull, @iansu - look into micromatch, minimatch, bash and gitignore and compare
+- Action item: @nodejs/tooling Review source maps PR https://github.com/nodejs/node/pull/28960
+- Action item: @boneskull remove shutil from tooling-agenda
+- Action item: @nodejs/tooling reach out to let people know about new meeting times
 
 ## Q&A, Other
 
