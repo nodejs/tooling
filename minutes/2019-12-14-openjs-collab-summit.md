@@ -15,10 +15,10 @@ Ben Coe (BC): (introduces tooling group)
   - maybe a minimist-type thing in node core?
   - not unheard of for a language to have these features
 - Ruy Adorno (RA): no specs for this, no standards
-- Wes Todd (WT): would need to be minimal ,highly extensible
+- Wes Todd (WT): would need to be minimal, highly extensible
 - Ian Sutherland (IS): we want to cover 80% use case
 - BC: we should probably NOT try to create an RFC for standard arg parsing
-- Michael Rawlings (MR): what features are we talking about? types ,arrays ,etc?
+- Michael Rawlings (MR): what features are we talking about? types, arrays, etc?
   - How full featured should this be?
 - Christopher Hiller (CH): do we cater to library authors or people needing to hack out quick CLIs?
 - BC: Should we serve 20% or 80%?  probably 80%
