@@ -13,7 +13,7 @@ Ben Coe (BC): (introduces tooling group)
 - BC, discussing arg parsing in Node.js: google has many sample files
   - first thing they see is `process.argv.slice(2)`
   - maybe a minimist-type thing in node core?
-  - not unheard of for a language to have these features
+  - not unheard of for a language to have these features ([for example Go](https://golang.org/pkg/flag/))
 - Ruy Adorno (RA): no specs for this, no standards
 - Wes Todd (WT): would need to be minimal, highly extensible
 - Ian Sutherland (IS): we want to cover 80% use case
