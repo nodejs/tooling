@@ -53,7 +53,7 @@ Ben Coe (BC): (introduces tooling group)
   - V8 snapshots; Joyee would need to comment
 - IS?: `ncc` from Zeit may be doing a V8 snapshot?
 - AH: it’s a v8 code cache in ncc
-- WT/CH: netflix might need this ,ibm might need it
+- WT/CH: netflix might need this, ibm might need it
 - CH: lets reach out to zeit
 - ?: github actions is also a use case
 - CH: startup times! they suck
