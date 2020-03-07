@@ -2,7 +2,7 @@
 
 ## Links
 
-* **Recording**: https://youtu.be/b1rthodJAQw
+* **Recording**: https://youtu.be/mj33ibz7Ias
 * **GitHub Issue**: https://github.com/nodejs/tooling/issues/60
 * **Minutes Doc**: https://hackmd.io/@nodejs-tooling/2020-02-07-meeting
 
