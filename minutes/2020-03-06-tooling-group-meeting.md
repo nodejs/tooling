@@ -1,10 +1,10 @@
-# Node.js  Tooling Group Meeting 2020-03-06
+# Node.js Tooling Group Meeting 2020-03-06
 
 ## Links
 
 * **Recording**: https://youtu.be/NSowmWnKuyE
 * **GitHub Issue**: https://github.com/nodejs/tooling/issues/62
-* **Minutes Google Doc**: https://hackmd.io/@boneskull/nodejs-tooling-group-2020-03-06
+* **Minutes Google Doc**: https://hackmd.io/@nodejs-tooling/2020-03-06-meeting
 
 ## Present
 
@@ -16,7 +16,6 @@
 * Ben Coe [@BenjaminCoe](https://twitter.com/BenjaminCoe)
 * Darcy Clarke: @darcyclarke
 * Bryan English: @bengl
-
 
 ## Agenda
 
