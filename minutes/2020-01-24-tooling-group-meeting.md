@@ -4,7 +4,7 @@
 
 * **Recording**: https://youtu.be/371RnCGx1Y8
 * **GitHub Issue**: https://github.com/nodejs/tooling/
-* **Minutes Google Doc**: https://github.com/nodejs/tooling/issues/58
+* **Minutes Doc**: https://hackmd.io/@nodejs-tooling/2020-01-24-meeting
 
 ## Present
 
