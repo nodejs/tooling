@@ -1,4 +1,4 @@
-# Node.js Foundation Tooling Group Meeting 2020-02-07
+# Node.js Tooling Group Meeting 2020-02-07
 
 ## Links
 
