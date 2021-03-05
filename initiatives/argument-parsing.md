@@ -3,7 +3,7 @@
 ### Links & Resources
 
 * [Initial Tooling Issue](https://github.com/nodejs/tooling/issues/19)
-* [Initial Propoasl](https://github.com/nodejs/node/pull/35015)
+* [Initial Proposal](https://github.com/nodejs/node/pull/35015)
 
 ----
 
