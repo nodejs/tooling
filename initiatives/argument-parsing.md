@@ -59,7 +59,7 @@ const options = {
 }
 const { args, values, positionals } = parseArgs(argv, options)
 args // { f: true, foo: true}
-values // { f: [undefined], foo: [undefined,'b'] }
+values // { f: [undefined], foo: ['b'] }
 positionals // []
 ```
 ```js
