@@ -43,6 +43,10 @@ into an `Array`
 ## Examples w/ Output
 
 ```js
+const { parseArgs } = require('util')
+```
+
+```js
 // default
 const argv = ['-f', '--foo=a', '--foo', 'b']
 const options = {}
