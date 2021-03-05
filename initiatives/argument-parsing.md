@@ -50,7 +50,8 @@ const { args, values, positionals } = parseArgs(argv, options)
 args // { f: true, foo: true}
 values // { f: [undefined], foo: [undefined] }
 positionals // ['b']
-
+```
+```js
 // withValue
 const argv = ['-f', '--foo=a', '--foo', 'b']
 const options = {
@@ -60,7 +61,8 @@ const { args, values, positionals } = parseArgs(argv, options)
 args // { f: true, foo: true}
 values // { f: [undefined], foo: [undefined,'b'] }
 positionals // []
-
+```
+```js
 // withValue & multiples
 const argv = ['-f', '--foo=a', '--foo', 'b']
 const options = {
@@ -71,7 +73,8 @@ const { args, values, positionals } = parseArgs(argv, options)
 args // { f: true, foo: true}
 values // { f: [undefined], foo: ['a','b'] }
 positionals // []
-
+```
+```js
 // shorts
 const argv = ['-f', '--foo=a', '--foo', 'b']
 const options = {
