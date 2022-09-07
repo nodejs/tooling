@@ -27,7 +27,6 @@ It may be easiest to provide this *non-exhaustive* list of examples:
 
 ## How to Help
 
-- Join the `#node-tooling` channel on the [Dev Tools Community Slack](https://devtoolscommunity.herokuapp.com/) (automatic signup)
 - Provide [user feedback](https://github.com/nodejs/user-feedback)--how do you use Node.js to write tools? What's good? What could be better?
 - Create [issues](https://github.com/nodejs/user-feedback/issues) and participate in discussions
 - Attend online meetings
