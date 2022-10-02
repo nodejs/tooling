@@ -20,7 +20,7 @@
 ### TypeScript in node
 * Group was formed in the last collaborator summit in Austin 2022
 * Goal was to just execute TypeScript, no type checks
-* Deno rolled back support to type check, it’s a can of worms
+* Deno rolled back support to type check when running .ts files by default, it’s a can of worms
 * What gets us there
 * Pros:
   * Supporting the language that has the largest activity in GitHub
