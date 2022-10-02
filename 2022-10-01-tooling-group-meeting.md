@@ -35,7 +35,7 @@
 * We need a ts-config in order to properly setup the typescript transpiler
 * We need to define a clear line on what gets supported, compare TypeScript support to others such as CoffeeScript, JSX
 * We might have touched on a lot of subjects the other working groups are already working on, it would be great to sync back with the Loaders working group on these issues.
-* Propose to the typescript team that we build in support to the Node.js loader syntax directly into the package
+* Propose to the typescript team that we build in support to the Node.js loader syntax directly into the package: https://github.com/nodejs/node/issues/43818
 * From the Node.js side of things we just need to bind `.ts` files to automatically use the typescript loader
 
 ### Vendoring packages in core
