@@ -1,0 +1,14 @@
+name: Schedule team meetings
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: pkgjs/meet@v0
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        schedules: '2020-09-18T20:00:00.0Z/P14D'
+        issueTitle: 'Node.js Tooling Group Meeting <%= date.toFormat("yyyy-MM-dd") %>'
+        agendaLabel: 'tooling-agenda'
